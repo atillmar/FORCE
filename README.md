@@ -7,8 +7,10 @@ The [FORCE paper](https://www.mdpi.com/2073-4425/12/12/1968/htm) was published i
 The FORCE SNP panel currently exists as a myBaits capture kit (Daicel Arbor Biosciences), a QIAseq assay (QIAGEN) and as an AmpliSeq assay (Thermo Fisher Scientific).
 
 
-### Reference data  
-Text about reference data  
+### Interpretation tools & Reference data  
+Text to be added  
+  
+    
 
 
 <img src="https://user-images.githubusercontent.com/94858193/151597244-7413fcb6-6e1f-4cde-b379-325b6dce2aa0.png" width="250" height="300">
