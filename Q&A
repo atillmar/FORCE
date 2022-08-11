@@ -1,0 +1,20 @@
+General
+Q: Why do we do this interlab study?
+A: Because it is fun!
+
+Assay & Bioinformatics
+Q: Which assay should I use for the FORCE interlab study?
+A: There are currently at least three different options/versions: MyBaits (Arbor Biosciences), QIAseq (Qiagen) and AmpliSeq (ThermoFisher)
+
+Q: Is there any BED-file available for the FORCE SNPs?
+A: Yes, check the Bioinformatics folder. Two versions are available, one for Hg19 and Hg38.
+
+Q: I have a question
+A: Send an email to....
+
+Interpretation
+Q: Are there any free tools that can be used for kinship estimation? 
+A: FamLink (www.famlink.se)
+
+Q: Are there any free tools that can be used for ancestry predictions?
+A: ...
