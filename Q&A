@@ -7,7 +7,11 @@ A: Send an email to andreas.tillmar@rmv.se
 
 Assay & Bioinformatics
 Q: Which assay should I use for the FORCE interlab study?
-A: There are currently at least three different options/versions: MyBaits (Arbor Biosciences), QIAseq (Qiagen) and AmpliSeq (ThermoFisher)
+A: There are currently at least three different options/versions: MyBaits (Arbor Biosciences), QIAseq (Qiagen) and AmpliSeq (ThermoFisher).
+
+Interlab samples
+Q: What was 2800M diluted with (dilution series)?
+A: EB buffer (Qiagen).
 
 Interpretation
 Q: Are there any free tools that can be used for kinship estimation? 
